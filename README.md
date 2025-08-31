@@ -1,0 +1,1 @@
+This project aims to show how noisy sensor data affects localization and mapping through public robotics datasets and through implementation of existing SLAM libraries like ORB-SLAM and RTAB-Map.
